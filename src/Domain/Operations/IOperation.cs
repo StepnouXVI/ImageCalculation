@@ -1,4 +1,5 @@
-﻿namespace Domain;
+﻿namespace Domain.Operations;
+
 
 public interface IOperation
 {
